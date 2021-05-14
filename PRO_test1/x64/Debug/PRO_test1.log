@@ -1,0 +1,16 @@
+﻿  claster.cpp
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(278,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(450,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(554,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(730,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+  main.cpp
+  Generating Code...
+claster.obj : error LNK2019: unresolved external symbol MPI_Send referenced in function "public: void __cdecl CClaster::process_0(void)" (?process_0@CClaster@@QEAAXXZ)
+claster.obj : error LNK2019: unresolved external symbol MPI_Recv referenced in function "public: void __cdecl CClaster::process_0(void)" (?process_0@CClaster@@QEAAXXZ)
+claster.obj : error LNK2019: unresolved external symbol MPI_Initialized referenced in function "public: void __cdecl CClaster::process_0(void)" (?process_0@CClaster@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol MPI_Comm_size referenced in function main
+main.obj : error LNK2019: unresolved external symbol MPI_Comm_rank referenced in function main
+main.obj : error LNK2019: unresolved external symbol MPI_Init referenced in function main
+main.obj : error LNK2019: unresolved external symbol MPI_Finalize referenced in function main
+C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\msmpi.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\x64\Debug\PRO_test1.exe : fatal error LNK1120: 7 unresolved externals

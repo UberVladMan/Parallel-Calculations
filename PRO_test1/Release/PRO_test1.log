@@ -1,0 +1,12 @@
+﻿  claster.cpp
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(278,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(450,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(554,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\PRO_test1\claster.cpp(730,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+  main.cpp
+  Generating code
+  13 of 40 functions (32.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PRO_test1.vcxproj -> D:\Education\6_semestr\PRO\PRO_CW\PRO_CW_MPI_Vlada\Release\PRO_test1.exe
