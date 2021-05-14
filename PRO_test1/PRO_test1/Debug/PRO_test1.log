@@ -1,0 +1,8 @@
+﻿  claster.cpp
+C:\University\Parallel\PRO_CW_MPI\PRO_test1\claster.cpp(278,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+C:\University\Parallel\PRO_CW_MPI\PRO_test1\claster.cpp(450,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+C:\University\Parallel\PRO_CW_MPI\PRO_test1\claster.cpp(554,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+C:\University\Parallel\PRO_CW_MPI\PRO_test1\claster.cpp(730,2): warning C4003: not enough arguments for function-like macro invocation 'ALLOCATE_MEMORY_temp'
+  main.cpp
+  Generating Code...
+  PRO_test1.vcxproj -> C:\University\Parallel\PRO_CW_MPI\Debug\PRO_test1.exe
